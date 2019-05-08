@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Zad_dom1</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_sound">Change sound!</string>
+    <string name="change_contact">Change contact!</string>
+    <string name="textview">TextView</string>
+    <string name="jan_kowalsky">Jan Kowalsky</string>
+    <string name="robert_lewandowski">Robert Lewandowski</string>
+    <string name="janusz_polak">Janusz Polak</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="choose_contact">Choose contact</string>
+
+    <string-array name="music">
+        <item>Ringtone1</item>
+        <item>Ringtone2</item>
+        <item>Ringtone3</item>
+    </string-array>
+</resources>
